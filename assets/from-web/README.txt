@@ -1,0 +1,1 @@
+Töltsd le a képeket a download_images.sh futtatásával.
